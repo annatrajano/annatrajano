@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annabia95&" alt="annabia95" /></p>
 
-⭐️ Based on [Khushboo Goel](https://github.com/KhushbooGoel01)
+⭐️ Based on [Hérika Ströngreen](https://github.com/Strongreen) and [Khushboo Goel](https://github.com/KhushbooGoel01)
