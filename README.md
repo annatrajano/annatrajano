@@ -9,9 +9,9 @@
 
 - 👯 I’m a Collaborator at [Ströngreen Community](https://discord.gg/yGmUkebu8K)
 
-- 📫 How to reach me **annagarcia@id.uff.br**
+- 📫 How to reach me: **annagarcia@id.uff.br**
 
-- ⚡ Fun fact **Puzzle Addict 🧩 and Podcast Lover🎙**
+- ⚡ Fun fact: **Puzzle Addict 🧩 and Podcast Lover🎙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
