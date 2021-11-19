@@ -6,6 +6,7 @@
 </a>
 <a href="https://www.linkedin.com/in/anna-beatriz-trajano-de-sá/" target="_blank"> <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a> <a href="https://www.instagram.com/annabiatrajano/" target="_blank"> <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px"></a> <br /> 
 
+
 - 🔭 I currently study at [Trybe](https://www.betrybe.com/)
 
 - 🌱 I’m learning **HTML, CSS and JavaScript**
