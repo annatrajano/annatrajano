@@ -17,6 +17,7 @@
       - React
       - Redux
       - Unit Tests
+      - Docker
 
 - 👯 I’m a Collaborator at [Ströngreen Community](https://discord.gg/yGmUkebu8K)
 
