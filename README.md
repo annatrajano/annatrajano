@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anna :)</h1>
-<h3 align="center">A Technology Passionate Engineer and an Aspiring Web Developer</h3>
+<h3 align="center">A Technology Passionate Engineer and an Aspiring Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annabia95&label=Profile%20views&color=0e75b6&style=flat" alt="annabia95" /> </p>
 <a href="https://discord.gg/yGmUkebu8K" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yGmUkebu8K" height="48" width="48" />
@@ -9,7 +9,14 @@
 
 - 🔭 I currently study at [Trybe](https://www.betrybe.com/)
 
-- 🌱 I’m learning **JavaScript and React**
+- 🌱 I’m learning **MySQL** and I have expirience with:
+
+      - JavaScript
+      - HTML
+      - CSS
+      - React
+      - Redux
+      - Unit Tests
 
 - 👯 I’m a Collaborator at [Ströngreen Community](https://discord.gg/yGmUkebu8K)
 
