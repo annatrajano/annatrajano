@@ -9,7 +9,7 @@
 
 - 🔭 I currently study at [Trybe](https://www.betrybe.com/)
 
-- 🌱 I’m learning **MySQL** and I have expirience with:
+- 🌱 I’m learning **MySQL** and I have experience with:
 
       - JavaScript
       - HTML
