@@ -9,7 +9,7 @@
 
 - 🔭 I currently study at [Trybe](https://www.betrybe.com/)
 
-- 🌱 I’m learning **Node.js** and I have experience with:
+- 🌱 I’m learning **Software Architecture** and I have experience with:
 
       - JavaScript
       - HTML
@@ -19,6 +19,7 @@
       - Unit Tests
       - Docker
       - MySQL
+      - Express
 
 - 👯 I’m a Collaborator at [Ströngreen Community](https://discord.gg/yGmUkebu8K)
 
