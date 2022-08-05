@@ -9,7 +9,7 @@
 
 - 🔭 I currently study at [Trybe](https://www.betrybe.com/)
 
-- 🌱 I’m learning **Software Architecture** and I have experience with:
+- 🌱 I’m learning **TypeScript** and I have experience with:
 
       - JavaScript
       - HTML
@@ -20,6 +20,7 @@
       - Docker
       - MySQL
       - Express
+      - Software Architecture (Model, Service, Controller)
 
 - 👯 I’m a Collaborator at [Ströngreen Community](https://discord.gg/yGmUkebu8K)
 
