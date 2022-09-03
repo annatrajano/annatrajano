@@ -10,21 +10,24 @@
 ### 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-AnnaBeatrizTrajano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-beatriz-trajano-de-sá/)](https://www.linkedin.com/in/anna-beatriz-trajano-de-sá/) [![Gmail Badge](https://img.shields.io/badge/-annagarcia@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:annagarcia@id.uff.br)
 
+---
 
       - 🔭 I currently study at Trybe
       
       - 🌱 I’m learning Python and I have experience with:
       
-      - JavaScript
-      - HTML
-      - CSS
-      - React
-      - Redux
-      - Unit Tests
-      - Docker
-      - MySQL
-      - Express
-      - Software Architecture (Model, Service, Controller)
+      - JavaScript | TypeScript | CSS | HTML
+      - Linux (Ubuntu) | Windows
+      - Node.js | Jest | RTL | React JS | Context API | Redux | Bootstrap
+      - Scrum | Kanban
+      - TDD | Code Review | Clean Code | Conventional Commits
+      - Fetch API | Media Queries | Git | VSCode | Slack | Trello | Cypress
+      - Unit Tests;
+      - Docker;
+      - SQL | MySQL Worbench  |  MongoDB
+      - Express (HTTP com Node.js)  |  Middlewares
+      - Arquitetura de Software (MSC) |  Sequelize
+      - API REST
       
       - ⚡ Fun fact: Puzzle Addict 🧩 and Podcast Lover🎙
 
