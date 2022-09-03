@@ -16,7 +16,7 @@
       
       - 🌱 I’m learning Python and I have experience with:
       
-      - JavaScript | TypeScript | CSS | HTML
+      - JavaScript | TypeScript | Python | CSS | HTML
       - Linux (Ubuntu) | Windows
       - Node.js | Jest | RTL | React JS | Context API | Redux | Bootstrap
       - Scrum | Kanban
@@ -24,9 +24,9 @@
       - Fetch API | Media Queries | Git | VSCode | Slack | Trello | Cypress
       - Unit Tests;
       - Docker;
-      - SQL | MySQL Worbench  |  MongoDB
-      - Express (HTTP com Node.js)  |  Middlewares
-      - Arquitetura de Software (MSC) |  Sequelize
+      - SQL | MySQL Worbench | MongoDB
+      - Express (HTTP com Node.js) | Middlewares
+      - Arquitetura de Software (MSC) | Sequelize
       - API REST
       
       - ⚡ Fun fact: Puzzle Addict 🧩 and Podcast Lover🎙
