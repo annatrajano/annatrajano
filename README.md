@@ -1,17 +1,20 @@
+---
+
 <p align="center">
   <img src="https://i.ibb.co/vJPRdXc/capa-anna.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annabia95&label=Profile%20views&color=0e75b6&style=flat" alt="annabia95" /> </p>
-<a href="https://discord.gg/yGmUkebu8K" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yGmUkebu8K" height="48" width="48" />
-</a>
-<a href="https://www.linkedin.com/in/anna-beatriz-trajano-de-sá/" target="_blank"> <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a> <a href="https://www.instagram.com/annabiatrajano/" target="_blank"> <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px"></a> <br /> 
+
+---
+
+### 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-AnnaBeatrizTrajano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-beatriz-trajano-de-sá/)](https://www.linkedin.com/in/anna-beatriz-trajano-de-sá/) [![Gmail Badge](https://img.shields.io/badge/-annagarcia@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:annagarcia@id.uff.br)
 
 
-- 🔭 I currently study at [Trybe](https://www.betrybe.com/)
-
-- 🌱 I’m learning **TypeScript** and I have experience with:
-
+      - 🔭 I currently study at Trybe
+      
+      - 🌱 I’m learning Python and I have experience with:
+      
       - JavaScript
       - HTML
       - CSS
@@ -22,19 +25,53 @@
       - MySQL
       - Express
       - Software Architecture (Model, Service, Controller)
-
-- 👯 I’m a Collaborator at [Ströngreen Community](https://discord.gg/yGmUkebu8K)
-
-- 📫 How to reach me: **annagarcia@id.uff.br**
-
-- ⚡ Fun fact: **Puzzle Addict 🧩 and Podcast Lover🎙**
+      
+      - ⚡ Fun fact: Puzzle Addict 🧩 and Podcast Lover🎙
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="http://www1.perfumes.incolume.com.br/2017/01/docker-como-criar-uma-imagem-docker.html" target="_blank" rel="noreferrer"> <img src="https://4.bp.blogspot.com/-ElHOWTsMmu0/WICr4BM0ArI/AAAAAAAAscQ/G8hPehhiJkoKCa-Sc6QPW-TxWD52Y08ZgCPcB/s1600/docker-logo1.png" alt="docker" width="40" height="40"/> </a>
-<a href="https://marcas-logos.net/mysql-logo/" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="mysql" width="50" height="40"/> </a>
-</p>
+---
+
+### 🌟 Languages and Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌟 Front-end Technologies
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🌟 Back-end Technologies
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+
+### 🌟 Tests
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+![Mocha.js](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
+![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
+
+### 🌟 Operational Systems
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🌟 Others
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+---
 
 <p align="center" >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabia95&layout=compact&theme=tokyonight" alt="annabia95" />
@@ -44,6 +81,6 @@
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=annabia95&theme=tokyonight" alt="annabia95" /></p>
 
-
+---
 
 ⭐️ Based on [Hérika Ströngreen](https://github.com/Strongreen) and [Khushboo Goel](https://github.com/KhushbooGoel01)
