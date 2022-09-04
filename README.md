@@ -83,7 +83,7 @@
 ---
 
 <p align="center" >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabia95&layout=compact&theme=tokyonight" alt="annabia95" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annatrajano&layout=compact&theme=tokyonight" alt="annatrajano" />
 </p>
 
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=annabia95&show_icons=true&locale=en&theme=tokyonight" alt="annabia95" /></p>
