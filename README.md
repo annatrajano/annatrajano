@@ -12,9 +12,9 @@
 
 ---
 
-      - 🔭 I currently study at Trybe
+      - 🔭 I currently working at PUC-RIO as a Front-end Develover(MidLevel) 
       
-      - 🌱 I’m learning Python and I have experience with:
+      - 🌱 I have experience with:
       
       - JavaScript | TypeScript | Python | CSS | HTML
       - Linux (Ubuntu) | Windows
