@@ -12,7 +12,7 @@
 
 ---
 
-      - 🔭 I currently working at PUC-RIO as a Front-end Develover(MidLevel) 
+      - 🔭 I currently working at PUC-RIO as a Front-end Developer(MidLevel) 
       
       - 🌱 I have experience with:
       
