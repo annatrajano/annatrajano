@@ -26,7 +26,7 @@
       - Docker;
       - SQL | MySQL Worbench | MongoDB
       - Express (HTTP com Node.js) | Middlewares
-      - Arquitetura de Software (MSC) | Sequelize
+      - Software Architecture (MSC) | Sequelize
       - API REST
       
       - ⚡ Fun fact: Puzzle Addict 🧩 and Podcast Lover🎙
