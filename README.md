@@ -8,7 +8,7 @@
 ---
 
 ### 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-AnnaBeatrizTrajano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-beatriz-trajano-de-sá/)](https://www.linkedin.com/in/anna-beatriz-trajano-de-sa/) [![Gmail Badge](https://img.shields.io/badge/-annagarcia@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:annagarcia@id.uff.br)
+[![Linkedin Badge](https://img.shields.io/badge/-AnnaBeatrizTrajano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-beatriz-trajano-de-sá/)](https://www.linkedin.com/in/anna-beatriz-trajano-de-sa/) [![Gmail Badge](https://img.shields.io/badge/-annagarcia@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:annatrajano95@gmail.com)
 
 ---
 
