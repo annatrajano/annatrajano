@@ -12,22 +12,19 @@
 
 ---
 
-      - 🔭 I currently working at PUC-RIO as a Front-end Developer(MidLevel) 
+      - 🔭 I currently working as a Front-end Developer(MidLevel) 
       
       - 🌱 I have experience with:
       
-      - JavaScript | TypeScript | Python | CSS | HTML
-      - Linux (Ubuntu) | Windows
-      - Node.js | Jest | RTL | React JS | Context API | Redux | Bootstrap
+      - JavaScript | TypeScript | Python | SQL
+      - HTML | CSS | Sass | Styled Components | Bootstrap | Material UI
+      - React.js | Redux | Node.js
+      - Jest | React Testing Library (RTL) | Cypress |TDD | Code Review | Clean Code
+      - Git | GitHub | Docker | VSCode | Figma | Linux | Windows
       - Scrum | Kanban
-      - TDD | Code Review | Clean Code | Conventional Commits
-      - Fetch API | Media Queries | Git | VSCode | Slack | Trello | Cypress
-      - Unit Tests;
-      - Docker;
-      - SQL | MySQL Worbench | MongoDB
-      - Express (HTTP com Node.js) | Middlewares
-      - Software Architecture (MSC) | Sequelize
-      - API REST
+      - MySQL | MongoDB
+      - Communication | Leadership | Teamwork | Organization | Active Listening | Adaptability | Analytical Thinking
+      - Insomnia | Postman | Trello | Notion | Slack
       
       - ⚡ Fun fact: Puzzle Addict 🧩 and Podcast Lover🎙
 
